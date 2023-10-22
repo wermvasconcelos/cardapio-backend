@@ -21,6 +21,7 @@ public class FoodControler {
         Food foodData = new Food(data);
         repository.save(foodData);
     }
+    @CrossOrigin(origins = "*", allowedHeaders = "*")
     @GetMapping
     public List<FoodResponseDTO> getAll(){
 
