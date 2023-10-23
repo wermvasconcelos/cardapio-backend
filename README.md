@@ -12,7 +12,7 @@ Primeiro você deve clonar o repositório,
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/fernandakipper/crud-java-back](https://github.com/wermvasconcelos/cardapio-backend.git)https://github.com/wermvasconcelos/cardapio-backend.git
+$ git clone https://github.com/wermvasconcelos/cardapio-backend.git
 
 # Acesse-o
 $ cd crud-java-back
