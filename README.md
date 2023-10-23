@@ -19,7 +19,7 @@ $ cd crud-java-back
 ```
 Agora, dentro do IntelliJ, vamos instalar as depedências com o Maven clicando duas vezes onde é indicado no print 
 
-![image](https://github.com/wermvasconcelos/cardapio-backend/assets/67791009/c411701c-cec2-46f4-a4ae-423fe9b28d8b)
+![image](https://github.com/wermvasconcelos/cardapio-backend/assets/67791009/deccc26b-7ac0-4f20-a47b-264bc207cc61)
 
 E por fim, entre no arquivo da classe `CardapioApllication` para executar o projeto
 
