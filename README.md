@@ -15,7 +15,7 @@ Primeiro você deve clonar o repositório,
 $ git clone https://github.com/wermvasconcelos/cardapio-backend.git
 
 # Acesse-o
-$ cd crud-java-back
+$ cd [caminho_repositorio]
 ```
 Agora, dentro do IntelliJ, vamos instalar as depedências com o Maven clicando duas vezes onde é indicado no print 
 
