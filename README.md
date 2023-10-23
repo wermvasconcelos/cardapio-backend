@@ -25,7 +25,7 @@ E por fim, entre no arquivo da classe `CardapioApllication` para executar o proj
 
 ![image](https://github.com/wermvasconcelos/cardapio-backend/assets/67791009/2ec5eab3-c30f-4650-b937-15d96099fb95)
 
-<h2 id="related">🫂 Integração com Frontend</h2>
+<h2 id="related">Integração com Frontend</h2>
 
 Para realizar a integração com o Frontend, você pode clonar o projeto e rodar localmente, ou desenvolver você mesmo e fazer a conexção com a API pela url e porta do projeto
 
